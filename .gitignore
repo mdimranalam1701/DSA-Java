@@ -1,6 +1,22 @@
 *.class
+*.jar
+*.war
+*.ear
+*.log
 
-# Optional local IDE and OS files
+# Build output
+target/
+build/
+out/
+bin/
+
+# IDE and workspace files
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
 .DS_Store
 Thumbs.db
-.vscode/
