@@ -1,0 +1,6 @@
+*.class
+
+# Optional local IDE and OS files
+.DS_Store
+Thumbs.db
+.vscode/
